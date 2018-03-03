@@ -2,7 +2,7 @@
 Simple Click Repeater updated to an (still simple) automaton called "urAutomaton" written in the scripting language AutoIt.
 https://www.autoitscript.com/site/autoit/
 
-Still working on some important features.
+Still working on some important features. You can see and edit the source code if you want(.au3 or .txt) or just download the already compiled .exe.
 This application should soon be able to automate most processes an user could ever imagine... 
 
 As for now you can use it as:
