@@ -15,18 +15,22 @@ As for now you can use it as:
 
 New features:
 
-You can save your actionstack in a txt file and load it up whenever you need it again.
+- You can save your actionstack in a txt file and load it up whenever you need it again.
 
 
 
 Planned features:
 
-Allow more keystrokes to be registered
+- Allow more keystrokes to be registered
 
-Random delay between actions
+- Random delay between actions
 
-Set different/edit delay between certain actions
+- Set different/edit delay between certain actions
 
-Allow drag and drop to be registered
+- Allow drag and drop to be registered
 
-Allow user to chose multiple saved profiles to be repeated however they desire
+- Allow user to chose multiple saved profiles to be repeated however they desire
+
+- Beautify the GUI
+
+- Beautify the code
