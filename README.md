@@ -19,7 +19,7 @@ New features:
 
 
 
-Planned features:
+Planned features/todo:
 
 - Allow more keystrokes to be registered
 
