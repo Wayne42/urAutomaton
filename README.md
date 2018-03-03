@@ -1,5 +1,6 @@
 # urAutomaton
-Simple Click Repeater updated to an (still simple) automaton called "urAutomaton"
+Simple Click Repeater updated to an (still simple) automaton called "urAutomaton" written in the scripting language AutoIt.
+https://www.autoitscript.com/site/autoit/
 
 Still working on some important features.
 This application should soon be able to automate most processes an user could ever imagine... 
