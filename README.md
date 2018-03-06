@@ -13,6 +13,8 @@ As for now you can use it as:
 
 - Keystroke(a-z, SPACE, ENTER, BACKSPACE, TAB, ARROW KEYS)repeater
 
+You can save all your actions and their properties in a profile file and load them back up again.
+
 
 New features:
 
