@@ -11,7 +11,7 @@ As for now you can use it as:
 
 - Clickrepeater
 
-- Keystroke(a-z)repeater
+- Keystroke(a-z, SPACE, ENTER, BACKSPACE, TAB, ARROW KEYS)repeater
 
 
 New features:
