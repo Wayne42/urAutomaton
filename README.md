@@ -18,6 +18,10 @@ New features:
 
 - You can save your actionstack in a txt file and load it up whenever you need it again.
 
+- New Keys added: SPACE, ENTER, TAB, BACKSPACE, ARROW KEYS 
+
+- Delay between actions is now customizable
+
 
 
 Planned features/todo:
